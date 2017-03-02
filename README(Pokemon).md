@@ -9,8 +9,7 @@ I have used Pokemon stat data downloaded from kaggle.com
 
 Things I have done:
 + Data cleaning
-+ Figured out a code to create scatter plot
-++ With different color based on a variable
++ Figured out a code to create scatter plot With different color based on a variable
 
 
 
